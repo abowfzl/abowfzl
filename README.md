@@ -4,6 +4,9 @@
  <a href="https://linkedin.com/in/Abowfzl" target="_blank">
   <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
  </a>
+  <a href="https://twitter.com/abowfzl" target="_blank">
+  <img src="https://img.icons8.com/fluent/60/000000/twitter.png" />
+ </a>
 </p>
 
 <p align="center"> 
