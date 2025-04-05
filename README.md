@@ -1,4 +1,7 @@
 <h1 align="center">Hi there, I'm Abolfazl Moslemian 👋</h1>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abowfzl&color=yellow" alt="watching_count" />
+</p>
 
 <p align="center">
  <a href="https://linkedin.com/in/Abowfzl" target="_blank">
@@ -29,15 +32,20 @@
 
 <p align="center">
  <a href="#" alt="Abolfazl Moslemian's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abowfzl&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abowfzl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=3da279&icon_color=bf91f3&text_color=A1A1A1&bg_color=0,002230,004461" />
  </a>
 </p>
+
 <p align="center">
- <a href="#" alt="Abolfazl Moslemian's github stats">
+ <a href="#" alt="Abolfazl Moslemian's streak stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abowfzl&theme=dark&hide_border=true" />
  </a>
 </p>
 
+<p align="center">
+ <a href="#" alt="Abolfazl Moslemian's top languages stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abowfzl&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="ovi" /> </a>
+</p>
 <!--
 **abowfzl/abowfzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
