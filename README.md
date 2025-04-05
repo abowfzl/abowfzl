@@ -38,7 +38,7 @@
 
 <p align="center">
  <a href="#" alt="Abolfazl Moslemian's streak stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abowfzl&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abowfzl&theme=vue-dark&hide_border=true" />
  </a>
 </p>
 
